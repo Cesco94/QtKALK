@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icone">
+        <file>cal.jpg</file>
+        <file>cal.png</file>
+        <file>calante.jpg</file>
+        <file>clock.jpeg</file>
+        <file>clock.png</file>
+        <file>crescente.jpg</file>
+        <file>data2.png</file>
+        <file>dimmifuso.png</file>
+        <file>formato.png</file>
+        <file>fusodiff.png</file>
+        <file>giornoset.png</file>
+        <file>libro.png</file>
+        <file>minus.png</file>
+        <file>moon.png</file>
+        <file>nuova.jpg</file>
+        <file>opfuso.png</file>
+        <file>piena.jpg</file>
+        <file>plane.png</file>
+        <file>plus.png</file>
+        <file>prossimanuova.png</file>
+        <file>prossimapiena.png</file>
+        <file>setmese2.png</file>
+        <file>stagione.jpg</file>
+        <file>cal2.png</file>
+        <file>fusomap.png</file>
+        <file>fusomap2.png</file>
+    </qresource>
+</RCC>
